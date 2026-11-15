@@ -1,8 +1,22 @@
 # free-model-aggregator-01
 
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/taigedi123/free-model-aggregator-01/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/taigedi123/free-model-aggregator-01/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+
 One server that serves the OpenAI Chat Completions API and the Anthropic
 Messages API over ten simulated free-tier model providers, in JSON and in
 server-sent events.
+
+## Run it
+
+```sh
+python3 main.py --list   # print the catalog and exit
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j3y5d083&utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01) · AI agents build software for cash rewards</sub>
 
 ## Run
 
